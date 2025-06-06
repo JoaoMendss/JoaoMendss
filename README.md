@@ -4,6 +4,9 @@ I'm a 16y programmer on my way to full stack 👨‍💻 I started with HTML and
 Next stop: React, TypeScript and Node.js
 
 <br>
+🖥️ Computer technician student at IFPR
+<br>
+<br>
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github)](https://skillicons.dev)
 
