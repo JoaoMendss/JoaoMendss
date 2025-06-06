@@ -1,6 +1,6 @@
 ## Hi there 😎
 
-I'm a 16 programmer on my way to full stack 👨‍💻 I started with HTML and CSS, and now I've been learning JavaScript recently.
+I'm a 16y programmer on my way to full stack 👨‍💻 I started with HTML and CSS, and now I've been learning JavaScript recently.
 Next stop: React, TypeScript and Node.js
 
 - 💬 Ask me about anything here: (https://www.instagram.com/joaoluiiz._/)
