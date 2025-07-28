@@ -8,7 +8,7 @@ Next stop: React and TypeScript
 <br>
 <br>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,git,github,vscode)](https://skillicons.dev)
 
 <br />
 
