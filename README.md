@@ -1,7 +1,7 @@
 ## Hi there 😎
 
-I'm a 16y programmer on my way to full stack 👨‍💻 I started with HTML and CSS, and now I've been learning JavaScript recently.
-Next stop: React, TypeScript and Node.js
+I'm a 16y programmer on my way to full stack 👨‍💻 I usually use HTML, CSS, JavaScript and NodeJs technologies,
+Next stop: React and TypeScript
 
 <br>
 🖥️ Computer technician student at IFPR
