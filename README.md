@@ -12,9 +12,12 @@ Next stop: React and TypeScript
 
 <br />
 
-![João Mendes Stats](https://github-readme-stats.vercel.app/api?username=JoaoMendss&hide=contribs,prs)
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoMendss&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMendss&layout=compact&theme=dracula"/>
+</p>
+
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMendss)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💬 You can ask me about anything here
 
