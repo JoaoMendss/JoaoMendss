@@ -1,6 +1,6 @@
 ## Hi there 😎
 
-I'm a 16y programmer on my way to full stack 👨‍💻 I usually use HTML, CSS, JavaScript and NodeJs technologies,
+I'm a 17y programmer on my way to full stack 👨‍💻 I usually use HTML, CSS, JavaScript and NodeJs technologies,
 Next stop: React and TypeScript
 
 <br>
