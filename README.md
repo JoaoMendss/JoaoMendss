@@ -12,10 +12,6 @@ Next stop: TypeScript
 
 <br />
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMendss&layout=compact&theme=dracula"/>
-</p>
-
 <br>
 
 ### 💬 You can ask me about anything here
