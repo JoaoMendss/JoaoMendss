@@ -8,7 +8,9 @@ Next stop: TypeScript
 <br>
 <br>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,react,mongodb,mysql,postgres,git,github,vscode,docker,yarn,express)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,react,mongodb,mysql)](https://skillicons.dev)
+  <br>
+  [![My Skills](https://skillicons.dev/icons?i=postgres,git,github,vscode,docker,yarn,express,sequelize)](https://skillicons.dev)
 
 <br />
 
