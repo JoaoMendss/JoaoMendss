@@ -19,7 +19,7 @@ Currently studying at **Instituto Federal do Paraná (IFPR)** in a technical hig
 
 I enjoy creating complete applications — from frontend interfaces to backend APIs — and I'm always exploring new technologies.
 
-🎯 Currently learning: **TypeScript + improving React architecture**</br>
+🎯 Currently learning: **Deployment, servers, cloud hosting and application architecture**</br>
 🏃 **Runner** focused on 5/10K performance</br>
 🏎️ Formula 1 fan (**Ferrari** supporter ❤️)</br>
 🇺🇸 Planning a future exchange program in the **USA**
