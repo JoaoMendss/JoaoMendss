@@ -1,27 +1,69 @@
-## Hi there 😎
+# Hey, I'm João Mendes 👋
 
-I'm a 17y programmer on my way to full stack 👨‍💻 I usually use HTML, CSS, JavaScript and NodeJs, but I've started using React as well,
-Next stop: TypeScript
+```javascript
+const joao = {
+  age: 17,
+  location: "Paraná, Brazil 🇧🇷",
+  role: "Full Stack Developer",
+  education: "Internet Informatics @ IFPR",
+  currentFocus: ["React", "Node.js", "APIs", "JavaScript"],
+  hobbies: ["Running 🏃", "Programming 💻", "Formula 1 🏎️"]
+}
+```
 
-<br>
-🖥️ Computer technician student at IFPR
-<br>
-<br>
+## 🚀 About Me
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,react,mongodb,mysql)](https://skillicons.dev)
-  <br>
-  [![My Skills](https://skillicons.dev/icons?i=postgres,git,github,vscode,docker,yarn,express,sequelize)](https://skillicons.dev)
+I'm a **17-year-old Full Stack Developer** passionate about building real-world applications and constantly improving my skills.
 
-<br />
+Currently studying at **Instituto Federal do Paraná (IFPR)** in a technical high school program focused on Internet Informatics.
 
-<br>
+I enjoy creating complete applications — from frontend interfaces to backend APIs — and I'm always exploring new technologies.
 
-### 💬 You can ask me about anything here
+🎯 Currently learning: **TypeScript + improving React architecture**</br>
+🏃 **Runner** focused on 5/10K performance</br>
+🏎️ Formula 1 fan (**Ferrari** supporter ❤️)</br>
+🇺🇸 Planning a future exchange program in the **USA**
 
-<p>
-<a href="https://api.whatsapp.com/send/?phone=5542998682358&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="logo-whatsapp"></a>
-<a href="https://www.instagram.com/joaoluiiz._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-instagram"></a>
-<a href="https://www.linkedin.com/in/joaolcmendes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"></a>
-</p>
-<br />
-<br />
+---
+
+## 💻 Tech Stack
+
+### Frontend
+
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,styledcomponents)](https://skillicons.dev)
+
+### Backend
+
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize,mongodb,mysql,postgres)](https://skillicons.dev)
+
+### Tools & Others
+
+[![Tools Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,yarn,postman)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoMendss\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMendss\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Connect with me
+
+<a href="https://www.linkedin.com/in/joaolcmendes/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/joaoluiiz._/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://api.whatsapp.com/send/?phone=5542998682358" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+---
+
+> *"Building my future one project at a time."* 🚀
