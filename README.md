@@ -1,28 +1,84 @@
-# Hey, I'm João Mendes 👋
+<!-- Banner -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6A11CB,100:2575FC&text=Hey%20there%20I'm%20João%20Mendes%20👋&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
+</p>
+
+<h3 align="center">
+Full Stack Developer • Runner • Formula 1 Fan
+</h3>
+
+<p align="center">
+Building modern web applications and improving every day.
+</p>
+
+---
 
 ```javascript
 const joao = {
   age: 17,
   location: "Paraná, Brazil 🇧🇷",
-  role: "Full Stack Developer",
+
   education: "Internet Informatics @ IFPR",
-  currentFocus: ["React", "Node.js", "APIs", "JavaScript"],
-  hobbies: ["Running 🏃", "Programming 💻", "Formula 1 🏎️"]
+
+  role: "Full Stack Developer",
+
+  currentlyLearning: [
+    "React",
+    "Node.js",
+    "Cloud",
+    "Deployment",
+    "Application Architecture"
+  ],
+
+  hobbies: [
+    "Running 🏃",
+    "Programming 💻",
+    "Formula 1 🏎️"
+  ]
 }
 ```
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a **17-year-old Full Stack Developer** passionate about building real-world applications and constantly improving my skills.
+I'm a **Full Stack Developer** from Brazil passionate about creating modern web applications.
 
-Currently studying at **Instituto Federal do Paraná (IFPR)** in a technical high school program focused on Internet Informatics.
+Currently studying **Internet Informatics** at **Instituto Federal do Paraná (IFPR)** and always looking to improve through real-world projects.
 
-I enjoy creating complete applications — from frontend interfaces to backend APIs — and I'm always exploring new technologies.
+- 🚀 Learning Cloud, Docker and Deployment
+- 💻 Passionate about Full Stack Development
+- 🏃 Competitive 5K & 10K Runner
+- 🏎️ Ferrari Formula 1 Fan
+- 🇺🇸 Future High School Exchange Student
 
-🎯 Currently learning: **Deployment, servers, cloud hosting and application architecture**</br>
-🏃 **Runner** focused on 5/10K performance</br>
-🏎️ Formula 1 fan (**Ferrari** supporter ❤️)</br>
-🇺🇸 Planning a future exchange program in the **USA**
+---
+
+## 📊 GitHub Analytics
+
+<table>
+<tr>
+
+<td width="58%">
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoMendss&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoMendss&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=JoaoMendss&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+<td align="center">
+
+<img src="assets/programmer.png" width="320"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -30,40 +86,48 @@ I enjoy creating complete applications — from frontend interfaces to backend A
 
 ### Frontend
 
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,styledcomponents)](https://skillicons.dev)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,styledcomponents" />
+</p>
 
 ### Backend
 
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize,mongodb,mysql,postgres)](https://skillicons.dev)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,sequelize" />
+</p>
 
-### Tools & Others
+### Tools
 
-[![Tools Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,yarn,postman)](https://skillicons.dev)
-
----
-
-## 📊 GitHub Stats
-
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoMendss\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMendss\&layout=compact\&theme=tokyonight)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
+</p>
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect with Me
 
-<a href="https://www.linkedin.com/in/joaolcmendes/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="left">
+
+<a href="https://www.linkedin.com/in/joaolcmendes/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/joaoluiiz._/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.instagram.com/joaoluiiz._/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://api.whatsapp.com/send/?phone=5542998682358" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="mailto:SEUEMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</p>
 
 ---
 
-> *"Building my future one project at a time."* 🚀
+<p align="center">
+<i>"Building my future one project at a time."</i>
+</p>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=120&section=footer"/>
+</p>
