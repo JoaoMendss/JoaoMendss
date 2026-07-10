@@ -3,12 +3,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6A11CB,100:2575FC&text=Hey%20there%20I'm%20João%20Mendes%20👋&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
 </p>
 
-<h3 align="center">
-Full Stack Developer • Runner • Formula 1 Fan
-</h3>
-
 <p align="center">
-Building modern web applications and improving every day.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1700&color=7AA2F7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+real-world+applications;React+%7C+Node.js+%7C+MongoDB;Always+learning+something+new." />
 </p>
 
 ---
@@ -40,9 +36,9 @@ const joao = {
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** from Brazil passionate about creating modern web applications.
+I'm a **Full Stack Developer** from Brazil passionate about building modern web applications.
 
-Currently studying **Internet Informatics** at **Instituto Federal do Paraná (IFPR)** and always looking to improve through real-world projects.
+Currently studying **Internet Informatics** at **Instituto Federal do Paraná (IFPR)** and constantly improving my skills through real-world projects.
 
 - 🚀 Learning Cloud, Docker and Deployment
 - 💻 Passionate about Full Stack Development
@@ -57,23 +53,23 @@ Currently studying **Internet Informatics** at **Instituto Federal do Paraná (I
 <table>
 <tr>
 
-<td width="58%">
+<td width="65%" valign="top">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoMendss&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoMendss&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br>
+<br><br>
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoMendss&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoMendss&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=JoaoMendss&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=JoaoMendss&theme=tokyonight&hide_border=true"/>
 
 </td>
 
-<td align="center">
+<td width="35%" align="center" valign="middle">
 
-<img src="assets/programmer.png" width="320"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1800&color=BB86FC&center=true&vCenter=true&width=380&lines=React+%7C+Node.js;Full+Stack+Developer;Always+Learning"/>
 
 </td>
 
@@ -106,13 +102,13 @@ Currently studying **Internet Informatics** at **Instituto Federal do Paraná (I
 
 ## 📫 Connect with Me
 
-<p align="left">
+<p>
 
-<a href="https://www.linkedin.com/in/joaolcmendes/">
+<a href="https://www.linkedin.com/in/joaolcmendes/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/joaoluiiz._/">
+<a href="https://www.instagram.com/joaoluiiz._/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
