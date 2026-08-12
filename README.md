@@ -53,23 +53,9 @@ Currently studying **Internet Informatics** at **Instituto Federal do Paraná (I
 <table>
 <tr>
 
-<td width="65%" valign="top">
-
-<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoMendss&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoMendss&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
 <img width="100%" src="https://streak-stats.demolab.com?user=JoaoMendss&theme=tokyonight&hide_border=true"/>
 
 </td>
-
-<td width="35%" align="center" valign="middle">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1800&color=BB86FC&center=true&vCenter=true&width=380&lines=React+%7C+Node.js;Full+Stack+Developer;Always+Learning"/>
 
 </td>
 
