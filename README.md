@@ -10,15 +10,23 @@
 
 </div>
 
-## 🔨 Projetos
+## 🛠️ Tecnologias
 
-O que construí ou estou construindo — abre e testa:
+**Frontend**
 
-| Projeto | O que é |
-|---|---|
-| ... | ... |
+<p><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /></p>
 
-> Todos os repos em [github.com/JoaoMendss](https://github.com/JoaoMendss)
+**Backend**
+
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,php" /></p>
+
+**Banco de Dados**
+
+<p><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" /></p>
+
+**Ferramentas**
+
+<p><img src="https://skillicons.dev/icons?i=git,github,docker,vite" /></p>
 
 ## 🗻 Vida em commits
 
