@@ -92,7 +92,7 @@
 
   <!-- "stack" field -->
   <text class="mono" x="56" y="198" font-size="13.5">
-    <tspan fill="#7dd3fc">"stack"</tspan><tspan fill="#475569">: [</tspan><tspan fill="#86efac">"React"</tspan><tspan fill="#475569">, </tspan><tspan fill="#86efac">"Node.js"</tspan><tspan fill="#475569">, </tspan><tspan fill="#86efac">"Docker"</tspan><tspan fill="#475569">, </tspan><tspan fill="#86efac">"Cloud"</tspan><tspan fill="#475569">]</tspan>
+    <tspan fill="#7dd3fc">"stack"</tspan><tspan fill="#475569">: [</tspan><tspan fill="#86efac">"React"</tspan><tspan fill="#475569">, </tspan><tspan fill="#86efac">"Node.js"</tspan><tspan fill="#475569">, </tspan><tspan fill="#86efac">"JavaScript"</tspan><tspan fill="#475569">, </tspan><tspan fill="#86efac">"MongoDB"</tspan><tspan fill="#475569">]</tspan>
   </text>
 
   <!-- closing brace -->
