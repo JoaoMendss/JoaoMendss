@@ -24,11 +24,7 @@ O que construí ou estou construindo — abre e testa:
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/JoaoMendss/JoaoMendss/output/github-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoMendss/JoaoMendss/output/github-snake-light.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/JoaoMendss/JoaoMendss/output/github-snake.svg" />
-</picture>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoMendss&theme=tokyo-night&hide_border=true&area=true&area_color=7AA2F7" />
 
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=JoaoMendss&theme=tokyonight&hide_border=true&locale=pt_BR" />
 
