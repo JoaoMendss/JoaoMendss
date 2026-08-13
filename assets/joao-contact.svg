@@ -1,0 +1,80 @@
+<svg width="900" height="148" viewBox="0 0 900 148" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .mono { font-family: 'Cascadia Code', 'Fira Code', Consolas, monospace; }
+
+    .cursor { animation: blink 1.1s step-end infinite; fill: #3B82F6; }
+    @keyframes blink { 50% { opacity: 0; } }
+
+    .win-dot { animation: dot-breathe 4s ease-in-out infinite; }
+    .win-dot.d2 { animation-delay: .55s; }
+    .win-dot.d3 { animation-delay: 1.1s; }
+    @keyframes dot-breathe {
+      0%, 100% { opacity: .65; }
+      50%      { opacity: 1; }
+    }
+
+    .scanline { animation: scan 8s linear infinite; }
+    @keyframes scan {
+      0%   { transform: translateY(-20px); opacity: 0; }
+      10%  { opacity: .04; }
+      90%  { opacity: .04; }
+      100% { transform: translateY(168px); opacity: 0; }
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="termBg" x1="0" y1="0" x2="0" y2="148" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#0b0e14"/>
+    </linearGradient>
+    <linearGradient id="scanGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0"   stop-color="#3B82F6" stop-opacity="0"/>
+      <stop offset=".5"  stop-color="#3B82F6" stop-opacity="1"/>
+      <stop offset="1"   stop-color="#3B82F6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- card -->
+  <rect x="1" y="1" width="898" height="146" rx="12" fill="url(#termBg)" stroke="#1e2738" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <rect x="2" y="2" width="896" height="38" rx="10" fill="#111827"/>
+  <rect x="2" y="28" width="896" height="12" fill="#111827"/>
+
+  <!-- macOS dots -->
+  <circle class="win-dot"    cx="24" cy="21" r="6" fill="#FF5F57"/>
+  <circle class="win-dot d2" cx="44" cy="21" r="6" fill="#FFBD2E"/>
+  <circle class="win-dot d3" cx="64" cy="21" r="6" fill="#28CA41"/>
+
+  <!-- window title -->
+  <text class="mono" x="450" y="25" font-size="12" fill="#64748b" text-anchor="middle">~/contact — joao@mendes</text>
+
+  <!-- separator -->
+  <line x1="2" y1="40" x2="898" y2="40" stroke="#1e2738" stroke-width="1"/>
+
+  <!-- scanline -->
+  <rect class="scanline" x="2" y="40" width="896" height="24" fill="url(#scanGrad)" rx="0"/>
+
+  <!-- prompt -->
+  <text class="mono" x="36" y="70" font-size="13.5">
+    <tspan fill="#3B82F6">$</tspan><tspan fill="#e2e8f0"> contact --list</tspan>
+  </text>
+
+  <!-- linkedin -->
+  <text class="mono" x="36" y="95" font-size="13.5">
+    <tspan fill="#3B82F6">→</tspan>
+    <tspan fill="#64748b">  linkedin   </tspan>
+    <tspan fill="#86efac">linkedin.com/in/joaolcmendes</tspan>
+  </text>
+
+  <!-- instagram -->
+  <text class="mono" x="36" y="118" font-size="13.5">
+    <tspan fill="#3B82F6">→</tspan>
+    <tspan fill="#64748b">  instagram  </tspan>
+    <tspan fill="#86efac">instagram.com/joaoluiiz._</tspan>
+  </text>
+
+  <!-- blinking cursor -->
+  <text class="mono" x="36" y="140" font-size="13.5" fill="#3B82F6">$</text>
+  <rect class="cursor" x="52" y="127" width="8" height="15"/>
+</svg>
