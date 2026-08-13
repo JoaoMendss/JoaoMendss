@@ -34,8 +34,6 @@
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoMendss&theme=tokyo-night&hide_border=true&area=true&area_color=7AA2F7" />
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=JoaoMendss&theme=tokyonight&hide_border=true&locale=pt_BR" />
-
 </div>
 
 ## 📫 Contato
@@ -47,6 +45,6 @@
 
 <br/><br/>
 
-<sub>volta por volta.</sub>
+<sub>one project at a time</sub>
 
 </div>
