@@ -87,12 +87,12 @@
 
   <!-- "hobbies" field -->
   <text class="mono" x="56" y="180" font-size="13.5">
-    <tspan fill="#7dd3fc">"hobbies"</tspan><tspan fill="#475569">: [</tspan><tspan fill="#86efac">"corrida 5K/10K"</tspan><tspan fill="#475569">, </tspan><tspan fill="#86efac">"F1/Ferrari"</tspan><tspan fill="#475569">, </tspan><tspan fill="#86efac">"intercâmbio → EUA"</tspan><tspan fill="#475569">],</tspan>
+    <tspan fill="#7dd3fc">"hobbies"</tspan><tspan fill="#475569">: [</tspan><tspan fill="#86efac">"running 5K/10K"</tspan><tspan fill="#475569">, </tspan><tspan fill="#86efac">"F1/Ferrari"</tspan><tspan fill="#475569">, </tspan><tspan fill="#86efac">"intercâmbio → EUA"</tspan><tspan fill="#475569">],</tspan>
   </text>
 
   <!-- "stack" field -->
   <text class="mono" x="56" y="198" font-size="13.5">
-    <tspan fill="#7dd3fc">"stack"</tspan><tspan fill="#475569">: [</tspan><tspan fill="#86efac">"React"</tspan><tspan fill="#475569">, </tspan><tspan fill="#86efac">"Node.js"</tspan><tspan fill="#475569">, </tspan><tspan fill="#86efac">"JavaScript"</tspan><tspan fill="#475569">, </tspan><tspan fill="#86efac">"MongoDB"</tspan><tspan fill="#475569">]</tspan>
+    <tspan fill="#7dd3fc">"stack"</tspan><tspan fill="#475569">: [</tspan><tspan fill="#86efac">"React.js"</tspan><tspan fill="#475569">, </tspan><tspan fill="#86efac">"Node.js"</tspan><tspan fill="#475569">, </tspan><tspan fill="#86efac">"JavaScript"</tspan><tspan fill="#475569">, </tspan><tspan fill="#86efac">"MongoDB"</tspan><tspan fill="#475569">]</tspan>
   </text>
 
   <!-- closing brace -->
