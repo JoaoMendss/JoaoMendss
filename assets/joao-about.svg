@@ -87,7 +87,7 @@
 
   <!-- "hobbies" field -->
   <text class="mono" x="56" y="180" font-size="13.5">
-    <tspan fill="#7dd3fc">"hobbies"</tspan><tspan fill="#475569">: [</tspan><tspan fill="#86efac">"running 5K/10K"</tspan><tspan fill="#475569">, </tspan><tspan fill="#86efac">"F1/Ferrari"</tspan><tspan fill="#475569">, </tspan><tspan fill="#86efac">"intercâmbio → EUA"</tspan><tspan fill="#475569">],</tspan>
+    <tspan fill="#7dd3fc">"hobbies"</tspan><tspan fill="#475569">: [</tspan><tspan fill="#86efac">"running 5K/10K"</tspan><tspan fill="#475569">, </tspan><tspan fill="#86efac">"F1/Ferrari"</tspan><tspan fill="#475569">, </tspan><tspan fill="#86efac">"exchange program → EUA"</tspan><tspan fill="#475569">],</tspan>
   </text>
 
   <!-- "stack" field -->
