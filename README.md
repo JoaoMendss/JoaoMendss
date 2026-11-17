@@ -10,7 +10,7 @@
 
 </div>
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies 
 
 **Frontend**
 
@@ -20,15 +20,15 @@
 
 <p><img src="https://skillicons.dev/icons?i=nodejs,express,php" /></p>
 
-**Banco de Dados**
+**Data Base**
 
 <p><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" /></p>
 
-**Ferramentas**
+**Tools**
 
 <p><img src="https://skillicons.dev/icons?i=git,github,docker,vite" /></p>
 
-## 🗻 Vida em commits
+## 🗻 Life in commits
 
 <div align="center">
 
@@ -36,11 +36,11 @@
 
 </div>
 
-## 📫 Contato
+## 📫 Contact
 
 <div align="center">
 
-<img width="100%" src="assets/joao-contact.svg" alt="Contato — João Mendes" />
+<img width="100%" src="assets/joao-contact.svg" alt="Contact — João Mendes" />
 
 <br/>
 
